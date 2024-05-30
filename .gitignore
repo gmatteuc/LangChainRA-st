@@ -1,0 +1,8 @@
+# ignore environment settings files
+.env
+# ignore all PDF files
+*.pdf
+# ignore all binary files
+*.bin
+# ignore all SQLite database files
+*.sqlite3
